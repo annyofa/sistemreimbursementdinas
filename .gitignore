@@ -1,0 +1,11 @@
+# File upload pengguna (jangan masuk repo)
+uploads/receipts/*
+uploads/signatures/*
+uploads/payments/*
+!uploads/**/.gitkeep
+
+# File sementara
+test_*.php
+*.log
+.DS_Store
+Thumbs.db
